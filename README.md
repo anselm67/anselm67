@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+That's my public profile on github. 
+
 <!--
 **anselm67/anselm67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
